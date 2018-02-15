@@ -1,0 +1,65 @@
+﻿Associated User,Machine Name,Delivery Group,Failure Time,Failure Type,Failure Reason
+aallen13,n/a,SAS,12/6/2017 1:34:56 PM,Unavailable Capacity,No Machine Available
+aallen13,ADCF\FACAD3PDECX07P,SAS,12/6/2017 1:44:10 PM,Client Connection Failures,Other
+atrexler0,ADCF\FACAD3PDECX07P,SAS,12/5/2017 4:46:52 AM,Client Connection Failures,Other
+atrexler0,ADCF\FACAD3PDECX07P,SAS,12/5/2017 9:12:22 AM,Client Connection Failures,Connection Timeout
+atrexler0,ADCF\FACAD3PDECX07P,SAS,12/5/2017 9:15:52 AM,Client Connection Failures,Connection Timeout
+cacord0,ADCF\FACAD3PDECX05P,Analysts,12/7/2017 9:53:18 AM,Client Connection Failures,Connection Timeout
+cacord0,ADCF\FACAD3PDECX08P,SPSS,12/7/2017 9:53:48 AM,Client Connection Failures,Connection Timeout
+criggs0,ADCF\FACAD3PDECX06P,UNIV_SAS,12/4/2017 6:12:25 AM,Client Connection Failures,Other
+dbartolanzo0,ADCF\FACAD3PDECX06P,UNIV_SAS,12/7/2017 10:17:13 AM,Client Connection Failures,Other
+DDelGrande,ADCF\FACAD3PDECX05P,Analysts,12/7/2017 7:15:38 AM,Client Connection Failures,Other
+hwu3,ADCF\FACAD3PDECX06P,UNIV_SAS,12/4/2017 6:22:07 AM,Client Connection Failures,Other
+hwu3,ADCF\FACAD3PDECX06P,UNIV_SAS,12/5/2017 9:01:02 AM,Client Connection Failures,Other
+jcloutier0,ADCF\FACAD3PDECX05P,Analysts,12/7/2017 9:32:54 AM,Client Connection Failures,Other
+jcloutier0,ADCF\FACAD3PDECX05P,Analysts,12/7/2017 9:34:02 AM,Client Connection Failures,Other
+jcloutier0,ADCF\FACAD3PDECX05P,Analysts,12/7/2017 9:35:17 AM,Client Connection Failures,Other
+jcloutier0,ADCF\FACAD3PDECX07P,SAS,12/7/2017 9:37:46 AM,Client Connection Failures,Other
+jfarag2,ADCF\FACAD3PDECX07P,SAS,12/4/2017 6:32:30 AM,Client Connection Failures,Other
+Jim.Lucius,ADCF\FACAD3PDECX05P,Analysts,12/8/2017 8:01:35 AM,Client Connection Failures,Connection Timeout
+Jim.Lucius,ADCF\FACAD3PDECX07P,SAS,12/8/2017 8:05:06 AM,Client Connection Failures,Connection Timeout
+jschneider11,ADCF\FACAD3PDECX05P,Analysts,12/4/2017 12:40:55 PM,Client Connection Failures,Connection Timeout
+jschneider11,ADCF\FACAD3PDECX07P,SAS,12/4/2017 12:42:25 PM,Client Connection Failures,Connection Timeout
+jschneider11,ADCF\FACAD3PDECX07P,SAS,12/4/2017 12:46:58 PM,Client Connection Failures,Connection Timeout
+jschneider11,ADCF\FACAD3PDECX05P,Analysts,12/4/2017 12:47:28 PM,Client Connection Failures,Connection Timeout
+jwei22,ADCF\FACAD3PDECX05P,Analysts,12/5/2017 7:42:06 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 11:25:06 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX08P,SPSS,12/1/2017 11:28:38 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 11:31:38 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 11:36:38 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 11:44:55 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX08P,SPSS,12/1/2017 11:48:40 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 11:49:10 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX08P,SPSS,12/1/2017 11:53:10 AM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 12:04:42 PM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 12:13:42 PM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 12:27:44 PM,Client Connection Failures,Connection Timeout
+khawley2,ADCF\FACAD3PDECX07P,SAS,12/1/2017 12:32:46 PM,Client Connection Failures,Connection Timeout
+kmartin22,ADCF\FACAD3PDECX07P,SAS,12/4/2017 4:18:34 AM,Client Connection Failures,Connection Timeout
+kmartin22,ADCF\FACAD3PDECX05P,Analysts,12/4/2017 4:19:05 AM,Client Connection Failures,Connection Timeout
+kmartin22,ADCF\FACAD3PDECX07P,SAS,12/4/2017 4:27:05 AM,Client Connection Failures,Connection Timeout
+kmartin22,ADCF\FACAD3PDECX05P,Analysts,12/5/2017 7:02:25 AM,Client Connection Failures,Other
+ko'gallagher0,ADCF\FACAD3PDECX07P,SAS,12/4/2017 12:05:02 AM,Client Connection Failures,Other
+ko'gallagher0,ADCF\FACAD3PDECX07P,SAS,12/4/2017 12:19:03 AM,Client Connection Failures,Other
+kroenfeldt0,ADCF\FACAD3PDECX05P,Analysts,12/7/2017 2:45:14 PM,Client Connection Failures,Connection Timeout
+ksullivan7,ADCF\FACAD3PDECX08P,SPSS,12/1/2017 9:55:40 AM,Client Connection Failures,Other
+kszeto0,ADCF\FACAD3PDECX08P,SPSS,12/1/2017 9:13:47 AM,Client Connection Failures,Connection Timeout
+kszeto0,ADCF\FACAD3PDECX05P,Analysts,12/5/2017 8:54:14 AM,Client Connection Failures,Other
+kszeto0,ADCF\FACAD3PDECX05P,Analysts,12/5/2017 1:23:46 PM,Client Connection Failures,Connection Timeout
+mgray16,ADCF\FACAD3PDECX05P,Analysts,12/7/2017 4:26:32 PM,Client Connection Failures,Other
+mgray16,ADCF\FACAD3PDECX05P,Analysts,12/7/2017 4:42:34 PM,Client Connection Failures,Other
+myi12,ADCF\FACAD3PDECX05P,Analysts,12/6/2017 9:33:10 AM,Client Connection Failures,Other
+pwolf4,ADCF\FACAD3PDECX05P,Analysts,12/5/2017 8:49:44 AM,Client Connection Failures,Other
+rramachandran0,ADCF\FACAD3PDECX05P,Analysts,12/1/2017 1:07:22 PM,Client Connection Failures,Other
+rramachandran0,ADCF\FACAD3PDECX05P,Analysts,12/4/2017 10:45:01 AM,Client Connection Failures,Other
+rramachandran0,ADCF\FACAD3PDECX05P,Analysts,12/6/2017 8:45:14 AM,Client Connection Failures,Other
+rramachandran0,ADCF\FACAD3PDECX05P,Analysts,12/6/2017 2:26:57 PM,Client Connection Failures,Other
+rramachandran0,ADCF\FACAD3PDECX07P,SAS,12/8/2017 8:28:22 AM,Client Connection Failures,Other
+sbuttrey,ADCF\FACAD3PDECX05P,Analysts,12/6/2017 11:30:08 AM,Client Connection Failures,Connection Timeout
+sbuttrey,ADCF\FACAD3PDECX05P,Analysts,12/6/2017 11:35:38 AM,Client Connection Failures,Connection Timeout
+shawkins,ADCF\FACAD3PDECX08P,SPSS,12/1/2017 3:28:33 PM,Client Connection Failures,Other
+ssablan0,ADCF\FACAD3PDECX05P,Analysts,12/4/2017 9:05:03 AM,Client Connection Failures,Connection Timeout
+ssablan0,ADCF\FACAD3PDECX05P,Analysts,12/4/2017 1:46:00 PM,Client Connection Failures,Connection Timeout
+ssablan0,ADCF\FACAD3PDECX05P,Analysts,12/5/2017 9:55:31 AM,Client Connection Failures,Connection Timeout
+tho3,ADCF\FACAD3PDECX07P,SAS,12/3/2017 2:21:11 PM,Client Connection Failures,Connection Timeout
+yshen,ADCF\FACAD3PDECX05P,Analysts,12/5/2017 10:12:55 AM,Client Connection Failures,Other

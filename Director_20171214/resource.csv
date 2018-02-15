@@ -1,0 +1,10 @@
+﻿Resource Utilization Table
+Delivery Group: All
+Time Period: 12/7/2017 11:00:00 AM - 12/14/2017 9:00:00 AM
+Baseline Time Period: 11/30/2017 11:00:00 AM - 12/7/2017 9:00:00 AM
+Machine Name,Peak Concurrent Sessions,Average CPU(%),Peak CPU(%),Average Memory(MB),Peak Memory(MB),Criticals Alerts,Warnings Alerts
+ADCF\FACAD3PDECX05P,13,15,100,7340,31390,0,0
+ADCF\FACAD3PDECX07P,9,10,99,5951,12224,0,0
+ADCF\FACAD3PDECX06P,6,6,99,4340,7045,0,0
+ADCF\FACAD3PDECX09P,1,5,100,5094,5797,0,0
+ADCF\FACAD3PDECX08P,4,4,51,3349,7434,0,0

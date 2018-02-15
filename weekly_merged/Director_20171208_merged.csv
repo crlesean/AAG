@@ -1,0 +1,237 @@
+"","User.Name","Machine.Name","Delivery.Group","Logon.Attempt.Time","Total..sec.","Brokering..sec.","VM.Start..sec.","HDX.Connection..sec.","Authentication..sec.","GPOs..sec.","Logon.scripts..sec.","Profile.load..sec.","Interactive.sessions..sec.","Logon.Attempt.Outcome","Failure.Reason","Weekday","Date","Hour"
+"1","kszeto0","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 5:10:06 PM","80.867","0","n/a","3.866","17.5","1.95","n/a","0.293","26.38","Success","n/a","Friday",2017-12-01,5
+"2","criggs0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/1/2017 6:11:30 PM","66.887","0.017","n/a","4.906","10.172","1.173","n/a","0.406","23.996","Success","n/a","Friday",2017-12-01,6
+"3","jwei22","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 6:12:23 PM","69.258","0.016","n/a","2.766","10.375","2.44","n/a","0.386","25.356","Success","n/a","Friday",2017-12-01,6
+"4","mbacolod0","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 6:33:51 PM","107.266","0.03","n/a","n/a","10.469","2.02","n/a","0.466","24.87","Success","n/a","Friday",2017-12-01,6
+"5","abhasker2","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 6:43:04 PM","148.006","0.017","n/a","3.536","12.204","5.816","n/a","0.49","30.583","Success","n/a","Friday",2017-12-01,6
+"6","tng9","ADCF\FACAD3PDECX06P","UNIV_SAS","12/1/2017 6:59:44 PM","109.869","0.017","n/a","2.46","11.031","1.203","n/a","0.436","24.336","Success","n/a","Friday",2017-12-01,6
+"7","mseibert0","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 7:36:08 PM","61.213","0","n/a","3.09","7.907","1.85","n/a","0.336","26.53","Success","n/a","Friday",2017-12-01,7
+"8","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 7:37:23 PM","89.194","0.017","n/a","8.103","8.313","1.3","n/a","0.466","26.94","Success","n/a","Friday",2017-12-01,7
+"9","acondon2","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 7:57:31 PM","105.352","0.05","n/a","4.866","10.078","2.993","n/a","0.46","34.663","Success","n/a","Friday",2017-12-01,7
+"10","kszeto0","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 8:02:42 PM","85.321","0","n/a","6.276","12.468","1.903","n/a","0.33","25.34","Success","n/a","Friday",2017-12-01,8
+"11","jmurguia1","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 8:05:54 PM","68.154","0","n/a","4.946","13.985","1.883","n/a","0.533","25.213","Success","n/a","Friday",2017-12-01,8
+"12","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 8:45:57 PM","70.806","0.017","n/a","3.886","10.25","1.823","n/a","0.936","25.066","Success","n/a","Friday",2017-12-01,8
+"13","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 8:55:28 PM","157.64","0.033","n/a","n/a","13.25","6.88","n/a","4.5","85.393","Success","n/a","Friday",2017-12-01,8
+"14","rmomberger0","ADCF\FACAD3PDECX07P","SAS","12/1/2017 9:09:32 PM","149.631","0.017","n/a","n/a","8.172","1.203","n/a","0.476","20.076","Success","n/a","Friday",2017-12-01,9
+"15","jfisher11","ADCF\FACAD3PDECX07P","SAS","12/1/2017 9:23:25 PM","125.275","0","n/a","2.213","13.438","1.97","n/a","1.113","29.31","Success","n/a","Friday",2017-12-01,9
+"16","jfisher11","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 9:44:15 PM","95.734","0","n/a","2.576","16.687","2.466","n/a","0.623","32.716","Success","n/a","Friday",2017-12-01,9
+"17","ksullivan7","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 10:13:34 PM","69.294","0.017","n/a","2.183","11.578","2.03","n/a","1.183","27.66","Success","n/a","Friday",2017-12-01,10
+"18","aallen13","ADCF\FACAD3PDECX07P","SAS","12/1/2017 10:36:03 PM","63.087","0.013","n/a","3.28","7.64","1.21","n/a","0.3","25.84","Success","n/a","Friday",2017-12-01,10
+"19","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 10:43:27 PM","83.217","0.016","n/a","4.7","9.157","2.343","n/a","0.253","41.796","Success","n/a","Friday",2017-12-01,10
+"20","jmurguia1","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 11:59:09 PM","69.923","0.03","n/a","4.69","0.187","11.72","n/a","1.636","49.82","Success","n/a","Friday",2017-12-01,11
+"21","ksullivan7","ADCF\FACAD3PDECX05P","Analysts","12/2/2017 5:42:05 PM","79.77","0.076","n/a","n/a","0","1.266","n/a","0.36","19.27","Success","n/a","Saturday",2017-12-02,5
+"22","tho3","ADCF\FACAD3PDECX07P","SAS","12/2/2017 9:52:52 PM","197.638","0.017","n/a","7.51","22.125","1.906","n/a","0.5","19.583","Success","n/a","Saturday",2017-12-02,9
+"23","mbacolod0","ADCF\FACAD3PDECX05P","Analysts","12/2/2017 10:43:18 PM","75.755","0.016","n/a","n/a","26.641","2.093","n/a","0.733","24.333","Success","n/a","Saturday",2017-12-02,10
+"24","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/3/2017 7:51:17 PM","91.84","0","n/a","n/a","14.015","2.58","n/a","1.063","26.023","Success","n/a","Sunday",2017-12-03,7
+"25","tho3","ADCF\FACAD3PDECX07P","SAS","12/3/2017 10:55:55 PM","135.442","0.017","n/a","7.22","19.719","1.563","n/a","0.346","20.826","Success","n/a","Sunday",2017-12-03,10
+"26","sschwab2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 2:31:43 AM","160.699","0.017","n/a","2.99","11.453","27.266","n/a","1.97","88.6","Success","n/a","Monday",2017-12-04,2
+"27","cwelsh2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 6:59:05 AM","717.037","0.047","n/a","5.963","9.75","4.406","n/a","1.813","666.41","Success","n/a","Monday",2017-12-04,6
+"28","zpeters2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 12:33:02 PM","89.387","0.017","n/a","3.493","13","2.67","n/a","0.563","32.053","Success","n/a","Monday",2017-12-04,12
+"29","atrexler0","ADCF\FACAD3PDECX07P","SAS","12/4/2017 12:41:32 PM","115.819","4.173","n/a","6.02","14.907","2.123","n/a","0.686","19.656","Success","n/a","Monday",2017-12-04,12
+"30","kmartin22","ADCF\FACAD3PDECX07P","SAS","12/4/2017 12:57:26 PM","87.485","0.017","n/a","5.006","15.016","2.706","n/a","0.64","21.84","Success","n/a","Monday",2017-12-04,12
+"31","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 2:00:55 PM","120.054","0.017","n/a","4.143","12.64","2.736","n/a","0.843","48.13","Success","n/a","Monday",2017-12-04,2
+"32","tng9","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 2:21:24 PM","85.924","0","n/a","2.476","16.734","2.373","n/a","1.626","25.516","Success","n/a","Monday",2017-12-04,2
+"33","hwu3","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 2:25:43 PM","67.98","0.016","n/a","1.923","11.063","2.236","n/a","1.11","21.836","Success","n/a","Monday",2017-12-04,2
+"34","plockwood-bean0","ADCF\FACAD3PDECX07P","SAS","12/4/2017 2:30:13 PM","68.003","0.05","n/a","n/a","11.828","1.946","n/a","0.686","20.25","Success","n/a","Monday",2017-12-04,2
+"35","jfarag2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 2:32:37 PM","76.301","0.033","n/a","3.866","10.703","2.756","n/a","0.526","28.91","Success","n/a","Monday",2017-12-04,2
+"36","aking20","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 2:33:47 PM","74.155","0.016","n/a","3.433","11.954","2.046","n/a","0.876","19.636","Success","n/a","Monday",2017-12-04,2
+"37","paliaga0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 2:37:05 PM","72.476","0","n/a","5.15","10.781","3.11","n/a","0.64","27.616","Success","n/a","Monday",2017-12-04,2
+"38","criggs0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 2:39:18 PM","72.706","0.017","n/a","1.946","10.047","2.64","n/a","0.843","27.846","Success","n/a","Monday",2017-12-04,2
+"39","jwei22","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 3:13:47 PM","195.947","0.016","n/a","3.556","10.593","3.143","n/a","0.643","35.83","Success","n/a","Monday",2017-12-04,3
+"40","estewart7","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 3:34:55 PM","87.348","0.017","n/a","5.463","9","2.873","n/a","1.233","28.143","Success","n/a","Monday",2017-12-04,3
+"41","estewart7","ADCF\FACAD3PDECX07P","SAS","12/4/2017 3:36:20 PM","94.078","0.017","n/a","2.67","13.25","2.24","n/a","0.65","27.413","Success","n/a","Monday",2017-12-04,3
+"42","rquah0","ADCF\FACAD3PDECX07P","SAS","12/4/2017 3:55:20 PM","109.996","0.016","n/a","5.36","29.343","11.313","n/a","0.496","31.2","Success","n/a","Monday",2017-12-04,3
+"43","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 4:03:52 PM","100.593","0.047","n/a","15.723","18.234","3.503","n/a","0.786","31.416","Success","n/a","Monday",2017-12-04,4
+"44","mseibert0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 4:04:31 PM","79.452","0","n/a","5.2","16.891","2.43","n/a","0.7","30.183","Success","n/a","Monday",2017-12-04,4
+"45","myi12","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 4:06:21 PM","77.367","0.017","n/a","4.936","16.734","3.25","n/a","0.813","29.91","Success","n/a","Monday",2017-12-04,4
+"46","acondon2","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 4:50:19 PM","81.34","0.016","n/a","5.033","18.235","2.186","n/a","0.526","28.176","Success","n/a","Monday",2017-12-04,4
+"47","kroenfeldt0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 4:53:04 PM","90.478","0","n/a","5.73","19.25","2.553","n/a","1.24","39.653","Success","n/a","Monday",2017-12-04,4
+"48","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 4:55:55 PM","89.041","0.017","n/a","4.45","28.719","1.876","n/a","1.07","24.473","Success","n/a","Monday",2017-12-04,4
+"49","rarmenta2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 4:57:11 PM","109.886","0.016","n/a","n/a","18.188","9.9","n/a","0.79","36.343","Success","n/a","Monday",2017-12-04,4
+"50","zpeters2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 5:11:39 PM","94.958","0","n/a","3.326","16.281","1.406","n/a","0.47","28.32","Success","n/a","Monday",2017-12-04,5
+"51","kszeto0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 5:11:27 PM","107.487","0","n/a","3.516","40.047","2.076","n/a","0.8","28.373","Success","n/a","Monday",2017-12-04,5
+"52","kroenfeldt0","ADCF\FACAD3PDECX07P","SAS","12/4/2017 5:12:20 PM","71.554","0","n/a","2.233","10.266","2.366","n/a","0.743","26.723","Success","n/a","Monday",2017-12-04,5
+"53","jbonnie0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 5:17:38 PM","104.905","0.033","n/a","n/a","34.25","2.06","n/a","0.613","26.276","Success","n/a","Monday",2017-12-04,5
+"54","mlindberg0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 5:22:28 PM","71.677","0","n/a","4.413","13.188","2.156","n/a","0.5","18.753","Success","n/a","Monday",2017-12-04,5
+"55","tng9","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 5:47:23 PM","79.606","0.03","n/a","2.333","12.328","1.22","n/a","0.796","24.59","Success","n/a","Monday",2017-12-04,5
+"56","fhuante2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 6:13:24 PM","102.753","0.017","n/a","4.786","14.453","2.7","n/a","0.633","29.37","Success","n/a","Monday",2017-12-04,6
+"57","mbacolod0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 6:19:00 PM","65.129","0.017","n/a","n/a","9.547","2.49","n/a","0.503","28.91","Success","n/a","Monday",2017-12-04,6
+"58","aallen13","ADCF\FACAD3PDECX07P","SAS","12/4/2017 6:21:30 PM","67.058","0","n/a","4.146","16.406","2.54","n/a","0.703","23.246","Success","n/a","Monday",2017-12-04,6
+"59","atrexler0","ADCF\FACAD3PDECX07P","SAS","12/4/2017 6:21:12 PM","91.936","0.017","n/a","4.906","16.235","1.333","n/a","0.453","21.57","Success","n/a","Monday",2017-12-04,6
+"60","jfisher11","ADCF\FACAD3PDECX07P","SAS","12/4/2017 6:41:19 PM","84.542","0.016","n/a","1.856","12.734","2.056","n/a","0.793","28.4","Success","n/a","Monday",2017-12-04,6
+"61","jfisher11","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 6:42:55 PM","105.091","0","n/a","2.01","18.453","2.29","n/a","0.88","27.06","Success","n/a","Monday",2017-12-04,6
+"62","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 6:45:15 PM","77.84","0.017","n/a","n/a","9.14","1.25","n/a","0.473","25.45","Success","n/a","Monday",2017-12-04,6
+"63","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 7:11:43 PM","117.772","0.124","n/a","n/a","19.344","1.316","n/a","0.336","29.013","Success","n/a","Monday",2017-12-04,7
+"64","ihwang2","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 7:30:26 PM","73.369","0.017","n/a","4.096","11","1.906","n/a","0.936","25.726","Success","n/a","Monday",2017-12-04,7
+"65","fhuante2","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 8:14:29 PM","90.576","0.017","n/a","n/a","0","8.09","n/a","0.526","39.166","Success","n/a","Monday",2017-12-04,8
+"66","mbacolod0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 8:33:58 PM","77.578","0.017","n/a","n/a","10.453","1.386","n/a","0.84","29.056","Success","n/a","Monday",2017-12-04,8
+"67","aking20","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 8:37:04 PM","78.851","0.03","n/a","3.286","11.063","1.313","n/a","0.42","23.116","Success","n/a","Monday",2017-12-04,8
+"68","aking20","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 8:45:34 PM","61.352","0","n/a","3.22","10.391","1.22","n/a","0.143","17.866","Success","n/a","Monday",2017-12-04,8
+"69","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 9:01:18 PM","64.47","0.047","n/a","2.236","9.328","1.296","n/a","1.016","24.543","Success","n/a","Monday",2017-12-04,9
+"70","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 9:33:08 PM","76.153","0.034","n/a","5.486","9.078","1.276","n/a","0.64","26.703","Success","n/a","Monday",2017-12-04,9
+"71","sschwab2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 10:15:46 PM","81.715","0.017","n/a","2.553","17.047","3.23","n/a","0.733","28.096","Success","n/a","Monday",2017-12-04,10
+"72","pwolf4","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 11:09:17 PM","82.555","0.016","n/a","n/a","21.703","2.32","n/a","0.56","27.54","Success","n/a","Monday",2017-12-04,11
+"73","cmcnary0","ADCF\FACAD3PDECX07P","SAS","12/5/2017 6:24:35 AM","108.282","0.05","n/a","5.323","20.859","15.82","n/a","1.583","35.166","Success","n/a","Tuesday",2017-12-05,6
+"74","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/5/2017 2:42:29 PM","59.309","0.016","n/a","1.87","8.813","1.173","n/a","0.266","24.246","Success","n/a","Tuesday",2017-12-05,2
+"75","plockwood-bean0","ADCF\FACAD3PDECX07P","SAS","12/5/2017 2:50:07 PM","81.59","0.017","n/a","n/a","15.156","1.22","n/a","1.453","26.21","Success","n/a","Tuesday",2017-12-05,2
+"76","acondon2","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 2:59:35 PM","73.494","0","n/a","7.873","19.984","1.22","n/a","0.36","20.823","Success","n/a","Tuesday",2017-12-05,2
+"77","kmartin22","ADCF\FACAD3PDECX07P","SAS","12/5/2017 3:02:01 PM","88.882","0","n/a","6.34","14.25","1.2","n/a","0.9","19.84","Success","n/a","Tuesday",2017-12-05,3
+"78","kmartin22","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 3:02:55 PM","184.315","0.017","n/a","4.603","16.828","7.976","n/a","0.74","32.653","Success","n/a","Tuesday",2017-12-05,3
+"79","estewart7","ADCF\FACAD3PDECX07P","SAS","12/5/2017 3:04:44 PM","80.14","0","n/a","5.063","7.187","1.326","n/a","0.546","24.426","Success","n/a","Tuesday",2017-12-05,3
+"80","estewart7","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 3:05:52 PM","70.846","0.017","n/a","2.803","9","1.246","n/a","0.473","22.916","Success","n/a","Tuesday",2017-12-05,3
+"81","mseibert0","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 3:26:03 PM","65.119","0.017","n/a","4.39","11.203","1.206","n/a","0.583","23.72","Success","n/a","Tuesday",2017-12-05,3
+"82","sschwab2","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 3:27:57 PM","95.749","0.016","n/a","3.553","14.109","1.28","n/a","0.59","24.473","Success","n/a","Tuesday",2017-12-05,3
+"83","jwei22","ADCF\FACAD3PDECX07P","SAS","12/5/2017 3:41:33 PM","71.757","0","n/a","2.343","10.891","5.826","n/a","0.54","31.35","Success","n/a","Tuesday",2017-12-05,3
+"84","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 3:59:49 PM","122.432","0.123","n/a","15.606","21.109","3.766","n/a","1.386","41.84","Success","n/a","Tuesday",2017-12-05,3
+"85","jfisher11","ADCF\FACAD3PDECX07P","SAS","12/5/2017 4:21:03 PM","137.122","0.016","n/a","13.12","15.313","1.296","n/a","0.88","28.206","Success","n/a","Tuesday",2017-12-05,4
+"86","jfisher11","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 4:22:55 PM","117.127","0","n/a","12.806","20.703","2.433","n/a","0.96","28.423","Success","n/a","Tuesday",2017-12-05,4
+"87","cwelsh2","ADCF\FACAD3PDECX07P","SAS","12/5/2017 4:26:28 PM","96.022","0.015","n/a","6.233","18.484","1.3","n/a","0.616","28.46","Success","n/a","Tuesday",2017-12-05,4
+"88","pwolf4","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 4:51:31 PM","104.306","0.204","n/a","4.32","29.984","1.886","n/a","0.68","29.74","Success","n/a","Tuesday",2017-12-05,4
+"89","hwu3","ADCF\FACAD3PDECX06P","UNIV_SAS","12/5/2017 5:07:45 PM","77.677","0.016","n/a","1.953","12.031","1.17","n/a","0.436","24.41","Success","n/a","Tuesday",2017-12-05,5
+"90","myi12","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 5:08:36 PM","89.862","0.017","n/a","5.463","24.906","1.896","n/a","0.703","30.32","Success","n/a","Tuesday",2017-12-05,5
+"91","rramachandran0","ADCF\FACAD3PDECX07P","SAS","12/5/2017 5:47:08 PM","123.399","0","n/a","9.833","11.484","4.276","n/a","1.1","50.866","Success","n/a","Tuesday",2017-12-05,5
+"92","yshen","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 6:13:19 PM","93.132","0.017","n/a","n/a","26.516","2.65","n/a","0.733","31.836","Success","n/a","Tuesday",2017-12-05,6
+"93","mbacolod0","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 6:22:00 PM","85.085","0.017","n/a","n/a","29.688","2.746","n/a","0.976","25.28","Success","n/a","Tuesday",2017-12-05,6
+"94","kevin.mason","ADCF\FACAD3PDECX07P","SAS","12/5/2017 6:29:33 PM","66.986","0.03","n/a","5.083","0.031","6.453","n/a","0.626","45.796","Success","n/a","Tuesday",2017-12-05,6
+"95","cstanek2","ADCF\FACAD3PDECX07P","SAS","12/5/2017 6:55:56 PM","91.059","0.017","n/a","5.25","13.718","2.1","n/a","1.126","25.56","Success","n/a","Tuesday",2017-12-05,6
+"96","tng9","ADCF\FACAD3PDECX06P","UNIV_SAS","12/5/2017 6:58:24 PM","152.687","0.016","n/a","3.906","14.219","1.483","n/a","0.72","17.26","Success","n/a","Tuesday",2017-12-05,6
+"97","mpetukhova0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/5/2017 6:59:37 PM","100.248","0.016","n/a","7.25","24.172","2.283","n/a","0.513","20.776","Success","n/a","Tuesday",2017-12-05,6
+"98","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 7:02:52 PM","95.402","0","n/a","4.823","16.218","3.14","n/a","1.226","30.913","Success","n/a","Tuesday",2017-12-05,7
+"99","michael.j.ready4.ctr","ADCF\FACAD3PDECX09P","SAS RFL","12/5/2017 7:14:50 PM","44.643","0","n/a","3.476","3.703","2.42","n/a","0.376","19.766","Success","n/a","Tuesday",2017-12-05,7
+"100","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/5/2017 7:52:25 PM","94.567","0.017","n/a","2.746","15.219","1.393","n/a","0.436","17.766","Success","n/a","Tuesday",2017-12-05,7
+"101","mlindberg0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/5/2017 10:16:36 PM","69.277","0","n/a","3.586","11.391","1.36","n/a","0.673","23.48","Success","n/a","Tuesday",2017-12-05,10
+"102","aanglemyer0","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 10:28:45 PM","279.649","0.017","n/a","n/a","11.953","6.513","n/a","1.11","225.733","Success","n/a","Tuesday",2017-12-05,10
+"103","kszeto0","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 12:06:39 AM","72.879","0.017","n/a","2.976","10.235","4.173","n/a","1.653","24.16","Success","n/a","Wednesday",2017-12-06,12
+"104","michael.j.ready4.ctr","ADCF\FACAD3PDECX09P","SAS RFL","12/6/2017 12:23:01 AM","52.272","0.017","n/a","3.093","6.265","1.436","n/a","0.873","20.74","Success","n/a","Wednesday",2017-12-06,12
+"105","sschwab2","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 12:31:14 PM","65.157","0.062","n/a","2.836","9.265","1.546","n/a","1.406","17.406","Success","n/a","Wednesday",2017-12-06,12
+"106","hwu3","ADCF\FACAD3PDECX06P","UNIV_SAS","12/6/2017 1:10:59 PM","67.167","0","n/a","3.146","9.937","1.173","n/a","1.14","23.28","Success","n/a","Wednesday",2017-12-06,1
+"107","mseibert0","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 2:31:48 PM","92.288","0.046","n/a","5.123","8.219","2.873","n/a","0.72","43.723","Success","n/a","Wednesday",2017-12-06,2
+"108","atrexler0","ADCF\FACAD3PDECX07P","SAS","12/6/2017 2:38:08 PM","110.029","0.015","n/a","n/a","24.125","1.266","n/a","0.653","19.713","Success","n/a","Wednesday",2017-12-06,2
+"109","michael.j.ready4.ctr","ADCF\FACAD3PDECX09P","SAS RFL","12/6/2017 2:44:20 PM","50.183","0.016","n/a","2.896","4.125","1.406","n/a","0.36","21.523","Success","n/a","Wednesday",2017-12-06,2
+"110","ko'gallagher0","ADCF\FACAD3PDECX07P","SAS","12/6/2017 2:49:52 PM","68.673","0.017","n/a","3.686","9.469","2.483","n/a","0.89","27.623","Success","n/a","Wednesday",2017-12-06,2
+"111","jfisher11","ADCF\FACAD3PDECX07P","SAS","12/6/2017 3:48:01 PM","83.079","0.031","n/a","1.963","12.563","1.296","n/a","0.483","25.98","Success","n/a","Wednesday",2017-12-06,3
+"112","jfisher11","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 3:48:59 PM","103.214","0.015","n/a","2.06","14.517","2.656","n/a","0.533","27.346","Success","n/a","Wednesday",2017-12-06,3
+"113","jwei22","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 4:08:10 PM","72.811","0","n/a","5.413","14.594","2.933","n/a","0.65","27.133","Success","n/a","Wednesday",2017-12-06,4
+"114","aking20","ADCF\FACAD3PDECX06P","UNIV_SAS","12/6/2017 4:13:03 PM","68.29","0.016","n/a","3.31","18.672","1.156","n/a","0.53","18.85","Success","n/a","Wednesday",2017-12-06,4
+"115","plockwood-bean0","ADCF\FACAD3PDECX07P","SAS","12/6/2017 4:14:43 PM","98.257","0.017","n/a","3.79","15.015","1.286","n/a","0.97","24.796","Success","n/a","Wednesday",2017-12-06,4
+"116","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 4:45:39 PM","104.362","0.046","n/a","7.48","10.672","2.52","n/a","0.983","26.096","Success","n/a","Wednesday",2017-12-06,4
+"117","pwolf4","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 4:53:03 PM","71.248","0.828","n/a","n/a","10.688","1.933","n/a","1.25","26.92","Success","n/a","Wednesday",2017-12-06,4
+"118","acondon2","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 5:02:01 PM","120.77","0.017","n/a","5.83","12.391","2.61","n/a","0.713","29.036","Success","n/a","Wednesday",2017-12-06,5
+"119","rschrag","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 5:10:19 PM","76.69","0.017","n/a","2.34","19.391","2.276","n/a","0.553","25.62","Success","n/a","Wednesday",2017-12-06,5
+"120","myi12","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 5:34:42 PM","124.101","0","n/a","3.206","17.235","2.306","n/a","1","28.393","Success","n/a","Wednesday",2017-12-06,5
+"121","estewart7","ADCF\FACAD3PDECX07P","SAS","12/6/2017 5:35:36 PM","84.13","0.016","n/a","7.32","10.5","1.41","n/a","0.303","25.79","Success","n/a","Wednesday",2017-12-06,5
+"122","fhuante2","ADCF\FACAD3PDECX07P","SAS","12/6/2017 5:50:15 PM","189.054","0.017","n/a","5.09","10.078","2.58","n/a","1.076","31.953","Success","n/a","Wednesday",2017-12-06,5
+"123","kszeto0","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 6:03:49 PM","114.587","0.031","n/a","8.923","15.36","2.84","n/a","0.89","30.413","Success","n/a","Wednesday",2017-12-06,6
+"124","ksmith67","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 6:21:07 PM","84.854","0.046","n/a","4.993","11.344","2.84","n/a","0.793","38.776","Success","n/a","Wednesday",2017-12-06,6
+"125","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/6/2017 7:42:51 PM","70.159","0.034","n/a","4.97","17.391","2.64","n/a","0.843","19.86","Success","n/a","Wednesday",2017-12-06,7
+"126","cwelsh2","ADCF\FACAD3PDECX07P","SAS","12/6/2017 8:03:20 PM","130.035","0.031","n/a","6.27","18.407","1.56","n/a","0.676","25.88","Success","n/a","Wednesday",2017-12-06,8
+"127","fhuante2","ADCF\FACAD3PDECX07P","SAS","12/6/2017 9:04:47 PM","103.138","0","n/a","7.12","8.375","1.323","n/a","0.743","30.996","Success","n/a","Wednesday",2017-12-06,9
+"128","acondon2","ADCF\FACAD3PDECX07P","SAS","12/6/2017 9:42:18 PM","143.699","0.016","n/a","3.883","9.687","14.676","n/a","1.926","44.373","Success","n/a","Wednesday",2017-12-06,9
+"129","aallen13","ADCF\FACAD3PDECX07P","SAS","12/6/2017 9:44:27 PM","72.243","0.017","n/a","3.5","9.688","2.71","n/a","1.226","31.816","Success","n/a","Wednesday",2017-12-06,9
+"130","mbacolod0","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 9:57:02 PM","85.302","0.017","n/a","n/a","11.281","1.85","n/a","0.836","29.86","Success","n/a","Wednesday",2017-12-06,9
+"131","plockwood-bean0","ADCF\FACAD3PDECX07P","SAS","12/6/2017 10:09:24 PM","78.36","0","n/a","n/a","11.5","1.42","n/a","0.676","29.123","Success","n/a","Wednesday",2017-12-06,10
+"132","fhuante2","ADCF\FACAD3PDECX07P","SAS","12/6/2017 11:56:13 PM","81.135","0","n/a","3.806","7.609","1.37","n/a","0.516","25.613","Success","n/a","Wednesday",2017-12-06,11
+"133","jfisher11","ADCF\FACAD3PDECX07P","SAS","12/7/2017 12:24:39 AM","66.679","0.017","n/a","2.14","6.859","1.266","n/a","1.046","27.49","Success","n/a","Thursday",2017-12-07,12
+"134","myi12","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 1:44:34 AM","111.363","0.05","n/a","5.673","10.375","2.723","n/a","1.23","47.476","Success","n/a","Thursday",2017-12-07,1
+"135","atrexler0","ADCF\FACAD3PDECX07P","SAS","12/7/2017 12:42:04 PM","98.097","0.064","n/a","6.45","15.531","1.36","n/a","0.826","20.873","Success","n/a","Thursday",2017-12-07,12
+"136","dpercich0","ADCF\FACAD3PDECX07P","SAS","12/7/2017 12:54:45 PM","77.737","0.016","n/a","4.513","11.703","2.423","n/a","0.873","28.36","Success","n/a","Thursday",2017-12-07,12
+"137","kmartin22","ADCF\FACAD3PDECX07P","SAS","12/7/2017 1:03:54 PM","93.38","0","n/a","5.786","16.422","1.36","n/a","1.11","21.35","Success","n/a","Thursday",2017-12-07,1
+"138","jfarag2","ADCF\FACAD3PDECX07P","SAS","12/7/2017 2:20:27 PM","107.111","0.03","n/a","35.486","10.219","2.593","n/a","0.813","28.686","Success","n/a","Thursday",2017-12-07,2
+"139","estewart7","ADCF\FACAD3PDECX07P","SAS","12/7/2017 3:10:02 PM","108.757","0.017","n/a","5.523","15.688","1.45","n/a","0.39","18.83","Success","n/a","Thursday",2017-12-07,3
+"140","estewart7","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 3:12:53 PM","114.865","0.017","n/a","4.256","24.406","2.5","n/a","0.673","21.843","Success","n/a","Thursday",2017-12-07,3
+"141","myi12","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 3:15:39 PM","77.277","0","n/a","4.186","10.484","1.32","n/a","0.386","24.296","Success","n/a","Thursday",2017-12-07,3
+"142","DDelGrande","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 3:16:11 PM","54.914","0","n/a","2.78","5.859","5.553","n/a","1.23","26.053","Success","n/a","Thursday",2017-12-07,3
+"143","mseibert0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 3:35:56 PM","103.957","0.016","n/a","8.686","17.297","2.093","n/a","0.826","25.76","Success","n/a","Thursday",2017-12-07,3
+"144","cwelsh2","ADCF\FACAD3PDECX07P","SAS","12/7/2017 3:42:09 PM","80.718","0.017","n/a","6.333","11.297","1.31","n/a","0.703","26.433","Success","n/a","Thursday",2017-12-07,3
+"145","acondon2","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 3:58:15 PM","61.253","0.017","n/a","4.91","7.953","1.296","n/a","0.71","19.723","Success","n/a","Thursday",2017-12-07,3
+"146","jfisher11","ADCF\FACAD3PDECX07P","SAS","12/7/2017 4:06:27 PM","177.462","0.017","n/a","n/a","29.469","1.25","n/a","1.11","25.943","Success","n/a","Thursday",2017-12-07,4
+"147","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 4:08:38 PM","102.169","0","n/a","13.303","8.531","2.646","n/a","0.786","27.843","Success","n/a","Thursday",2017-12-07,4
+"148","jfisher11","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 4:10:03 PM","141.619","0","n/a","n/a","20.312","1.686","n/a","0.733","25.823","Success","n/a","Thursday",2017-12-07,4
+"149","plockwood-bean0","ADCF\FACAD3PDECX07P","SAS","12/7/2017 4:21:26 PM","89.554","0.017","n/a","n/a","15.437","1.403","n/a","0.283","26.733","Success","n/a","Thursday",2017-12-07,4
+"150","aallen13","ADCF\FACAD3PDECX07P","SAS","12/7/2017 5:13:41 PM","86.445","0.016","n/a","3.856","22.219","1.58","n/a","0.493","26.396","Success","n/a","Thursday",2017-12-07,5
+"151","kszeto0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 5:37:21 PM","181.506","0.013","n/a","7.363","18.282","1.33","n/a","0.38","20.646","Success","n/a","Thursday",2017-12-07,5
+"152","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/7/2017 6:18:51 PM","69.139","0","n/a","2.266","17.875","1.28","n/a","1.11","18.42","Success","n/a","Thursday",2017-12-07,6
+"153","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 6:59:48 PM","81.749","0.017","n/a","n/a","8.922","2.886","n/a","0.94","35.433","Success","n/a","Thursday",2017-12-07,6
+"154","ko'gallagher0","ADCF\FACAD3PDECX07P","SAS","12/7/2017 7:02:51 PM","95.92","0.016","n/a","n/a","21.766","1.36","n/a","0.373","28.41","Success","n/a","Thursday",2017-12-07,7
+"155","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 8:34:41 PM","80.5","0.017","n/a","6.013","10.656","1.333","n/a","0.13","26.36","Success","n/a","Thursday",2017-12-07,8
+"156","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/7/2017 9:28:12 PM","79.483","0","n/a","1.993","9.031","1.173","n/a","0.736","24.633","Success","n/a","Thursday",2017-12-07,9
+"157","jtolins0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 10:01:14 PM","81.462","0.017","n/a","n/a","7.468","1.703","n/a","0.456","30","Success","n/a","Thursday",2017-12-07,10
+"158","fmollah0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 10:10:26 PM","70.751","0","n/a","n/a","9.437","5.313","n/a","0.676","31.203","Success","n/a","Thursday",2017-12-07,10
+"159","kroenfeldt0","ADCF\FACAD3PDECX07P","SAS","12/7/2017 10:41:43 PM","67.399","0","n/a","1.733","11.282","4.523","n/a","0.363","30.96","Success","n/a","Thursday",2017-12-07,10
+"160","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 11:23:54 PM","71.618","0.017","n/a","10.073","7.704","1.306","n/a","0.823","19.413","Success","n/a","Thursday",2017-12-07,11
+"161","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/8/2017 12:46:13 PM","82.575","0.064","n/a","13.596","16.235","1.39","n/a","0.81","19.903","Success","n/a","Friday",2017-12-08,12
+"162","sschwab2","ADCF\FACAD3PDECX05P","Analysts","12/8/2017 12:50:49 PM","60.728","0","n/a","2.843","9.844","1.313","n/a","0.75","20.286","Success","n/a","Friday",2017-12-08,12
+"163","plockwood-bean0","ADCF\FACAD3PDECX07P","SAS","12/8/2017 1:09:14 PM","66.002","0.017","n/a","n/a","11.891","1.266","n/a","0.673","20.713","Success","n/a","Friday",2017-12-08,1
+"164","kmartin22","ADCF\FACAD3PDECX07P","SAS","12/8/2017 2:04:41 PM","92.266","0.017","n/a","6.16","16.078","1.27","n/a","0.793","20.6","Success","n/a","Friday",2017-12-08,2
+"165","atrexler0","ADCF\FACAD3PDECX07P","SAS","12/8/2017 2:17:06 PM","202.485","0.017","n/a","4.883","17.453","1.363","n/a","0.486","25.89","Success","n/a","Friday",2017-12-08,2
+"166","estewart7","ADCF\FACAD3PDECX07P","SAS","12/8/2017 3:25:17 PM","135.387","0","n/a","4.663","37.719","1.373","n/a","0.89","25.076","Success","n/a","Friday",2017-12-08,3
+"167","mseibert0","ADCF\FACAD3PDECX05P","Analysts","12/8/2017 3:36:49 PM","104.96","0.017","n/a","7.106","17.422","1.28","n/a","0.483","18.16","Success","n/a","Friday",2017-12-08,3
+"168","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/8/2017 3:58:20 PM","67.972","0","n/a","5.553","16.75","1.28","n/a","1.063","18.203","Success","n/a","Friday",2017-12-08,3
+"169","jfisher11","ADCF\FACAD3PDECX07P","SAS","12/8/2017 3:58:27 PM","119.941","0","n/a","3.71","18.719","1.353","n/a","0.72","26.173","Success","n/a","Friday",2017-12-08,3
+"170","jfisher11","ADCF\FACAD3PDECX05P","Analysts","12/8/2017 4:00:19 PM","191.181","0.017","n/a","3.436","32.874","1.306","n/a","0.333","21.59","Success","n/a","Friday",2017-12-08,4
+"171","acondon2","ADCF\FACAD3PDECX05P","Analysts","12/8/2017 4:49:15 PM","73.168","0.017","n/a","6.553","13.375","1.303","n/a","0.323","28.06","Success","n/a","Friday",2017-12-08,4
+"172","myi12","ADCF\FACAD3PDECX05P","Analysts","12/8/2017 4:57:54 PM","90.262","0.033","n/a","5.463","20.344","1.303","n/a","0.373","28.056","Success","n/a","Friday",2017-12-08,4
+"173","aallen13","n/a","SAS","12/6/2017 1:34:56 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Unavailable Capacity","No Machine Available","Wednesday",2017-12-06,1
+"174","aallen13","ADCF\FACAD3PDECX07P","SAS","12/6/2017 1:44:10 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Wednesday",2017-12-06,1
+"175","atrexler0","ADCF\FACAD3PDECX07P","SAS","12/5/2017 4:46:52 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Tuesday",2017-12-05,4
+"176","atrexler0","ADCF\FACAD3PDECX07P","SAS","12/5/2017 9:12:22 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Tuesday",2017-12-05,9
+"177","atrexler0","ADCF\FACAD3PDECX07P","SAS","12/5/2017 9:15:52 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Tuesday",2017-12-05,9
+"178","cacord0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 9:53:18 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Thursday",2017-12-07,9
+"179","cacord0","ADCF\FACAD3PDECX08P","SPSS","12/7/2017 9:53:48 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Thursday",2017-12-07,9
+"180","criggs0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 6:12:25 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Monday",2017-12-04,6
+"181","dbartolanzo0","ADCF\FACAD3PDECX06P","UNIV_SAS","12/7/2017 10:17:13 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Thursday",2017-12-07,10
+"182","DDelGrande","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 7:15:38 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Thursday",2017-12-07,7
+"183","hwu3","ADCF\FACAD3PDECX06P","UNIV_SAS","12/4/2017 6:22:07 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Monday",2017-12-04,6
+"184","hwu3","ADCF\FACAD3PDECX06P","UNIV_SAS","12/5/2017 9:01:02 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Tuesday",2017-12-05,9
+"185","jcloutier0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 9:32:54 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Thursday",2017-12-07,9
+"186","jcloutier0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 9:34:02 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Thursday",2017-12-07,9
+"187","jcloutier0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 9:35:17 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Thursday",2017-12-07,9
+"188","jcloutier0","ADCF\FACAD3PDECX07P","SAS","12/7/2017 9:37:46 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Thursday",2017-12-07,9
+"189","jfarag2","ADCF\FACAD3PDECX07P","SAS","12/4/2017 6:32:30 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Monday",2017-12-04,6
+"190","Jim.Lucius","ADCF\FACAD3PDECX05P","Analysts","12/8/2017 8:01:35 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-08,8
+"191","Jim.Lucius","ADCF\FACAD3PDECX07P","SAS","12/8/2017 8:05:06 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-08,8
+"192","jschneider11","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 12:40:55 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,12
+"193","jschneider11","ADCF\FACAD3PDECX07P","SAS","12/4/2017 12:42:25 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,12
+"194","jschneider11","ADCF\FACAD3PDECX07P","SAS","12/4/2017 12:46:58 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,12
+"195","jschneider11","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 12:47:28 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,12
+"196","jwei22","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 7:42:06 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Tuesday",2017-12-05,7
+"197","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 11:25:06 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,11
+"198","khawley2","ADCF\FACAD3PDECX08P","SPSS","12/1/2017 11:28:38 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,11
+"199","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 11:31:38 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,11
+"200","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 11:36:38 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,11
+"201","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 11:44:55 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,11
+"202","khawley2","ADCF\FACAD3PDECX08P","SPSS","12/1/2017 11:48:40 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,11
+"203","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 11:49:10 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,11
+"204","khawley2","ADCF\FACAD3PDECX08P","SPSS","12/1/2017 11:53:10 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,11
+"205","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 12:04:42 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,12
+"206","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 12:13:42 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,12
+"207","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 12:27:44 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,12
+"208","khawley2","ADCF\FACAD3PDECX07P","SAS","12/1/2017 12:32:46 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,12
+"209","kmartin22","ADCF\FACAD3PDECX07P","SAS","12/4/2017 4:18:34 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,4
+"210","kmartin22","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 4:19:05 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,4
+"211","kmartin22","ADCF\FACAD3PDECX07P","SAS","12/4/2017 4:27:05 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,4
+"212","kmartin22","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 7:02:25 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Tuesday",2017-12-05,7
+"213","ko'gallagher0","ADCF\FACAD3PDECX07P","SAS","12/4/2017 12:05:02 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Monday",2017-12-04,12
+"214","ko'gallagher0","ADCF\FACAD3PDECX07P","SAS","12/4/2017 12:19:03 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Monday",2017-12-04,12
+"215","kroenfeldt0","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 2:45:14 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Thursday",2017-12-07,2
+"216","ksullivan7","ADCF\FACAD3PDECX08P","SPSS","12/1/2017 9:55:40 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Friday",2017-12-01,9
+"217","kszeto0","ADCF\FACAD3PDECX08P","SPSS","12/1/2017 9:13:47 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Friday",2017-12-01,9
+"218","kszeto0","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 8:54:14 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Tuesday",2017-12-05,8
+"219","kszeto0","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 1:23:46 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Tuesday",2017-12-05,1
+"220","mgray16","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 4:26:32 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Thursday",2017-12-07,4
+"221","mgray16","ADCF\FACAD3PDECX05P","Analysts","12/7/2017 4:42:34 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Thursday",2017-12-07,4
+"222","myi12","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 9:33:10 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Wednesday",2017-12-06,9
+"223","pwolf4","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 8:49:44 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Tuesday",2017-12-05,8
+"224","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/1/2017 1:07:22 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Friday",2017-12-01,1
+"225","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 10:45:01 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Monday",2017-12-04,10
+"226","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 8:45:14 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Wednesday",2017-12-06,8
+"227","rramachandran0","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 2:26:57 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Wednesday",2017-12-06,2
+"228","rramachandran0","ADCF\FACAD3PDECX07P","SAS","12/8/2017 8:28:22 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Friday",2017-12-08,8
+"229","sbuttrey","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 11:30:08 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Wednesday",2017-12-06,11
+"230","sbuttrey","ADCF\FACAD3PDECX05P","Analysts","12/6/2017 11:35:38 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Wednesday",2017-12-06,11
+"231","shawkins","ADCF\FACAD3PDECX08P","SPSS","12/1/2017 3:28:33 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Friday",2017-12-01,3
+"232","ssablan0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 9:05:03 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,9
+"233","ssablan0","ADCF\FACAD3PDECX05P","Analysts","12/4/2017 1:46:00 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Monday",2017-12-04,1
+"234","ssablan0","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 9:55:31 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Tuesday",2017-12-05,9
+"235","tho3","ADCF\FACAD3PDECX07P","SAS","12/3/2017 2:21:11 PM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Connection Timeout","Sunday",2017-12-03,2
+"236","yshen","ADCF\FACAD3PDECX05P","Analysts","12/5/2017 10:12:55 AM","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a","Client Connection Failures","Other","Tuesday",2017-12-05,10
